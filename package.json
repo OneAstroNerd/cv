@@ -1,0 +1,23 @@
+{
+  "name": "cv",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.7.13",
+    "autoprefixer": "^10.4.21",
+    "lucide-react": "^0.511.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.7"
+  },
+  "description": "```sh npm create astro@latest -- --template minimal ```",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
