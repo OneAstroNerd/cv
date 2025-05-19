@@ -151,7 +151,7 @@ ol li {
 footer {
   text-align: center;
   padding: 25px;
-  background-color: #f7f7f7;
+  background-color: #dbd5c17e;
   border-top: 1px solid #d1d5db;
   color: #555;
   font-size: 1.1em;
@@ -211,4 +211,8 @@ footer {
   .skills-section ul li {
     padding: 8px 10px;
   }
+}
+
+.social li {
+  text-align: center;
 }
